@@ -1,0 +1,60 @@
+body{
+    background-color: #F3E9FF;
+    text-align: center;
+}
+
+header{
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+img{
+    height: 150px;
+    width: 273.34px;
+    margin: auto;
+}
+
+main{
+    margin: 32px auto;
+    background-color: #774AD8;
+    text-align: initial;
+    color: #F8F5F9;
+    width: 700px;
+    padding: 2rem 1.5rem;
+    border-radius: 10px;
+}
+li{
+    list-style: none;
+    padding: 0 16px;
+}
+
+.list-style{
+
+    padding: 0 11px;
+    border-left: 5px solid #F8C929;
+    color: #F8C929;
+
+}
+
+.MDN{
+    background-color: #FEEFB2;
+    padding: 2px 4px;
+    border-radius: 4px;
+    color: #774AD8;
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+}
+
+.download{
+    background-color: #F8C929;
+    width: fit-content;
+    padding: 12px 24px;
+    border-radius: 10px;
+    margin: auto;
+    font-family: 'Roboto', sans-serif;
+    color: #774AD8;
+    font-weight: bold;
+}
